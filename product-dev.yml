@@ -2,3 +2,5 @@ product:
   name: TV
   category: Electronics
   price: 100
+  environment:
+    type: Development
